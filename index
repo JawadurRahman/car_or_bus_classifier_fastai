@@ -2,7 +2,7 @@
 title: 1. Single file
 layout: page
 ---
-<h1>Car or Bus: upload a image to find out!</h1>
+
 <input id="photo" type="file">
 <div id="results"></div>
 <script>
